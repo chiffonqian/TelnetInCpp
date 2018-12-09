@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TelnetTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TelnetInCPP.cpp
+c:\users\chiffon\documents\visual studio 2015\projects\telnettest\telnettest\clientnetwork.h(13): warning C4005: “DEFAULT_PORT”: 宏重定义
+  c:\users\chiffon\documents\visual studio 2015\projects\telnettest\telnettest\servernetwork.h(12): note: 参见“DEFAULT_PORT”的前一个定义
+  TelnetTest.vcxproj -> c:\users\chiffon\documents\visual studio 2015\Projects\TelnetTest\Debug\TelnetInCPP.exe
+  TelnetTest.vcxproj -> c:\users\chiffon\documents\visual studio 2015\Projects\TelnetTest\Debug\TelnetInCPP.pdb (Full PDB)

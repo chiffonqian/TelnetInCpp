@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  TelnetInCPP.cpp
+c:\users\chiffon\documents\visual studio 2015\projects\telnetincpp\telnetincpp\clientnetwork.h(11): warning C4005: “DEFAULT_PORT”: 宏重定义
+  c:\users\chiffon\documents\visual studio 2015\projects\telnetincpp\telnetincpp\servernetwork.h(12): note: 参见“DEFAULT_PORT”的前一个定义
+  ServerNetwork.cpp
+  ServerGame.cpp
+c:\users\chiffon\documents\visual studio 2015\projects\telnetincpp\telnetincpp\servergame.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+  NetworkServices.cpp
+  ClientNetwork.cpp
+  ClientGame.cpp
+c:\users\chiffon\documents\visual studio 2015\projects\telnetincpp\telnetincpp\clientgame.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  TelnetInCpp.vcxproj -> C:\Users\Chiffon\Documents\Visual Studio 2015\Projects\TelnetInCpp\x64\Debug\TelnetInCpp.exe
+  TelnetInCpp.vcxproj -> C:\Users\Chiffon\Documents\Visual Studio 2015\Projects\TelnetInCpp\x64\Debug\TelnetInCpp.pdb (Full PDB)
